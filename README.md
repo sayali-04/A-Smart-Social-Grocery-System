@@ -38,7 +38,7 @@ The goal is to promote social collaboration, cost savings, and sustainable shopp
 
 ### 🏠 **Homepage**
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshot 2025-04-24 223240.png)
 
 
 
