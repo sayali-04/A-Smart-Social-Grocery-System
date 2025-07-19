@@ -25,6 +25,12 @@ The goal is to promote social collaboration, cost savings, and sustainable shopp
 * 🌿 **Eco-Friendly Options:** Highlights sustainable product choices and encourages grouped deliveries
 
 ---
+## 📷 **Screenshots**
+
+### 🏠 **Homepage**
+
+![Homepage](screenshots/homepage.png)
+
 
 ### **🛠️ Tech Stack**
 
