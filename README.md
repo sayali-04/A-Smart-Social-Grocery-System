@@ -17,6 +17,7 @@ A-Smart-Social-Grocery-System is a group grocery shopping web application develo
 The goal is to promote social collaboration, cost savings, and sustainable shopping habits.
 
 💡 Features
+
 🔍 User Matching: Connect with nearby users sharing similar grocery needs.
 
 💬 Real-Time Chat: Communicate and plan grocery trips together.
